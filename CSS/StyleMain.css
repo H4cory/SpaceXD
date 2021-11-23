@@ -52,7 +52,7 @@ body
  
 #A:hover
  {
-	 background:url("../Images/A_blured2.jpg");
+	 background:url("../Images/A_blured.jpg");
 	 background-size: cover;
 	 transition:background 0.5s ease-in-out ;
  }
