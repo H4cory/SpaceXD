@@ -1,0 +1,58 @@
+::-webkit-scrollbar {
+	
+     width: 0px;
+ }
+
+body
+ {
+	 height: 100%;
+	 margin: 0px;
+	 background: black;
+	 font-family: Arial;
+	 color:white;
+ }
+.logo img
+ {
+	 margin-top: 15px;
+	 display: block;
+	 margin-left: 26%;
+	 margin-right: auto;
+	 width: 50%;
+ }
+
+ .home 
+ {
+	 font-family: Arial;
+	 text-align:center;
+	 font-size: 90px;
+	 
+ }
+ 
+  .home p
+ {
+	 background-color: black;
+	 color: white;
+	 transition:background-color 0.5s ease-in-out ;
+ }
+ 
+  .home p:hover
+ {
+	 transition:background-color 0.5s ease-in-out ;
+	 transition:color 0.5s ease-in-out ;
+	 background-color: white;
+	 color: black;
+ }
+ 
+ 
+ .home a:link, .home a:visited
+ {
+	 
+	 text-decoration:none;
+	 display: inline-block;
+ }
+ 
+ .arrow img
+ {
+	 width: 20%;
+	 margin-left: 40%;ss
+ }

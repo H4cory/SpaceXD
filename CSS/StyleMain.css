@@ -1,0 +1,218 @@
+::-webkit-scrollbar {
+	
+     width: 0px;
+ }
+
+body
+ {
+	 height: 100%;
+	 margin: 0px;
+	 background: black;
+	 font-family: Arial;
+	 color:white;
+ }
+.logo img
+ {
+	 padding: 20px 0px 20px 0px;
+	 display: block;
+	 margin-left: 41.2%;
+	 margin-right: auto;
+	 width: 20%;
+ }
+
+#A
+ {
+	 float:left;
+	 margin-left:0px;
+	 width:50%;
+	 height:50%;
+	 background:url("../Images/A.jpg");
+	 background-size: cover;
+	 transition:background 0.5s ease-in-out ;
+	
+ }
+#A h1
+ {
+	 margin-left:5%;
+	 font-size: 80px;	
+	 color: white;
+	 font-weight: lighter;
+ }
+
+
+#A p
+ {
+	 text-align: justify;
+	 padding-right:20px ;
+	 margin-left:4%;
+ 	 opacity:0;
+	 color: white;
+	 width: 90%;
+ }
+ 
+#A:hover
+ {
+	 background:url("../Images/A_blured2.jpg");
+	 background-size: cover;
+	 transition:background 0.5s ease-in-out ;
+ }
+#A:hover p
+ {
+		
+	 opacity:0.7;
+	 transition: opacity 0.5s ease-in-out;
+	
+ }
+
+
+.menu #B
+ {
+	 float:right;
+	 margin-left:0px;
+	 width:50%;
+	 height:50%;
+	 background:url("../Images/B.jpg");
+	 background-size: cover;
+	 transition:background 0.5s ease-in-out ;
+ }
+ #B h1
+ {
+	 margin-left:5%;
+	 font-size: 80px;	
+	 color: white;
+	 font-weight: lighter;
+ }
+
+
+#B p
+ {
+	 text-align: justify;
+	 padding-right:20px ;
+	 margin-left:4%;
+ 	 opacity:0;
+	 color: white;
+	  width: 90%;
+ }
+ 
+#B:hover
+ {
+	 background:url("../Images/B_blured.jpg");
+	 background-size: cover;
+	 transition:background 0.5s ease-in-out ;
+ }
+#B:hover p
+ {
+	
+	 opacity:0.7;
+	 transition: opacity 0.5s ease-in-out;
+	
+ }
+
+#C
+ {	 
+	 float:left;
+	 margin-left:0px;
+	 width:50%;
+	 height:50%;
+	 background:url("../Images/C.jpg");
+	 background-size: cover;
+	 transition:background 0.5s ease-in-out ;
+	
+ }
+#C h1
+ {
+	 margin-left:5%;
+	 font-size: 80px;	
+	 color: white;
+	 font-weight: lighter;
+ }
+
+
+#C p
+ {
+	 text-align: justify;
+	 padding-right:20px ;
+	 margin-left:4%;
+ 	 opacity:0;
+	 color: white;
+	  width: 90%;
+ }
+ 
+#C:hover
+ {
+	 background:url("../Images/C_blured.jpg");
+	 background-size: cover;
+	 transition:background 0.5s ease-in-out ;
+ }
+#C:hover p
+ {
+	
+	 opacity:0.7;
+	 transition: opacity 0.5s ease-in-out;
+	
+ }
+ 
+ 
+.menu #D
+ {
+	 float:right;
+	 margin-left:0px;
+	 width:50%;
+	 height:50%;
+	 background:url("../Images/D.jpg");
+	 background-size: cover;
+	 transition:background 0.5s ease-in-out ;
+ }
+ #D h1
+ {
+	 margin-left:5%;
+	 font-size: 80px;	
+	 color: white;
+	 font-weight: lighter;
+ }
+
+
+#D p
+ {
+	 text-align: justify;
+	 padding-right:20px ;
+	 margin-left:4%;
+ 	 opacity:0;
+	 color: white;
+	  width: 90%;
+	 
+ }
+ 
+#D:hover
+ {
+	 background:url("../Images/D_blured.jpg");
+	 background-size: cover;
+	 transition:background 0.5s ease-in-out ;
+ }
+#D:hover p
+ {
+	
+	 opacity:0.7;
+	 transition: opacity 0.5s ease-in-out;
+	
+ }
+
+
+.bot 
+ {
+	 
+	 display:block;
+	 clear: both;
+	 line-height:10px;
+	 margin-left:10pc;
+	 margin-right:10pc;
+	 border-style: solid none none none;
+	 border-width:1px;
+	 color: #a6a6a6;
+	 opacity:0.3;
+	 text-align: center;
+ }
+
+
+
+
